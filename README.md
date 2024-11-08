@@ -11,13 +11,13 @@ Este projeto é uma aplicação web simples desenvolvida em Python com Flask, qu
   - Milhas e Metros
   - Metros e Pés
   - Pés e Metros
-- Exibição do nome do host e endereço IP do servidor.
+
 
 ## Tecnologias Utilizadas
 
-- **Python** com o framework **Flask**
-- **Docker** para criar um ambiente isolado e replicável para a aplicação
-- **Gunicorn** para servir a aplicação em um ambiente de produção
+- **Python** com o framework **Flask**.
+- **Docker** para criar um ambiente isolado e replicável para a aplicação.
+- **Gunicorn** para servir a aplicação em um ambiente de produção.
 
 ## Arquitetura
 
