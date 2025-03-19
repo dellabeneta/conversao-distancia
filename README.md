@@ -8,6 +8,16 @@ Este projeto containeriza uma aplicação Python usando Docker, garantindo execu
 - Python 3.10 (apenas para desenvolvimento local)
 - Arquivo `requirements.txt` com dependências
 
+### Screenshots
+
+<div align="left">
+  <img src="assets/image-1.png" width="600">
+</div>
+
+<div align="left">
+  <img src="assets/image-2.png" width="600">
+</div>
+
 ### Começando
 
 #### Construção da Imagem
@@ -51,3 +61,6 @@ della@ubuntu:~/projetos/desafio-devops/conversao-distancia$ tree
 - Permissões corretas no filesystem  
 - Imagem slim (base reduzida)  
 - Limpeza de cache pip  
+
+
+
