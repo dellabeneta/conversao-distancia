@@ -32,7 +32,7 @@ docker build -t minha-app-python .
 docker run -d --name meu-container -p 5000:5000 minha-app-python
 ```
 
-### Configuração
+### Configurações
 
 #### Estrutura do Projeto
 
@@ -49,12 +49,12 @@ della@ubuntu:~/projetos/desafio-devops/conversao-distancia$ tree
 2 directories, 5 files
 ```
 
-### Portas
+#### Portas
 
 - A aplicação expõe a porta `5000` internamente
 - Mapeie para outra porta host se necessário: `-p 8080:5000`
 
-### Boas Práticas Implementadas
+#### Boas Práticas Implementadas
 
 - Usuário não-root dedicado  
 - Cache otimizado para dependências  
@@ -62,5 +62,11 @@ della@ubuntu:~/projetos/desafio-devops/conversao-distancia$ tree
 - Imagem slim (base reduzida)  
 - Limpeza de cache pip  
 
+<br>
+
+---
 
 
+### Contato
+
+https://linktr.ee/dellabeneta
